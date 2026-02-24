@@ -30,7 +30,7 @@ ollama pull qwen3-coder:30b
 
 If memory is limited, use a quantized version such as:
 ```bash
-ollama pull qwen3-coder:30b-a3b-q4_K_M
+ollama pull qwen2.5-coder:7b
 ```
 ---
 ## Installation
